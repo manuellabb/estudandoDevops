@@ -26,7 +26,6 @@ jobs:
       run: |
           cd src
           javac -cp . Main.java
-          javac -cp . Teste.java
 # Executando o projeto
     - name: Executando projeto JAVA
       run: |
