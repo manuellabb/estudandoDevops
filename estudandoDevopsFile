@@ -1,0 +1,6 @@
+FROM ubuntu
+
+WORKDIR src
+
+ADD ./src .
+
